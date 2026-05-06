@@ -1,4 +1,4 @@
-# 🚫 PRIVATE / 个人私用仓库 (INTERNAL USE ONLY)
+# 🚫 PRIVATE / 私有仓库 (INTERNAL USE ONLY)
 
 > [!CAUTION]
 > ** ** This is NOT a public project. If you have come across this repository by accident, please leave immediately.
