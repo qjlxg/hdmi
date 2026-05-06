@@ -14846,7 +14846,7 @@ proxies:
     path: /222.167.202.36:7443
     headers:
       Host: 2026.hhhhh.eu.org
-- name: 🇲🇾马来西亚_88a01
+- name: 🇮🇩印度尼西亚_88a01
   type: vmess
   server: v29.hdacd.com
   port: 30829
@@ -14942,7 +14942,7 @@ proxies:
   type: ss
   cipher: auto
   password: YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=
-- name: 🇲🇾马来西亚_2088d
+- name: 🇮🇩印度尼西亚_2088d
   type: vmess
   server: v30.hdacd.com
   port: 30830
@@ -15021,7 +15021,7 @@ proxies:
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
     short-id: ''
-- name: 🇲🇾马来西亚_810b9
+- name: 🇮🇩印度尼西亚_810b9
   type: vmess
   server: v45.hdacd.com
   port: 30845
@@ -15375,7 +15375,7 @@ proxies:
   network: tcp
   servername: broadcastlv.chat.bilibili.com
   udp: true
-- name: 🇲🇾马来西亚_58ac6
+- name: 🇮🇩印度尼西亚_58ac6
   type: vmess
   server: v8.hdacd.com
   port: 30808
@@ -15586,7 +15586,7 @@ proxies:
     path: /danfeng
     headers:
       Host: ''
-- name: 🇲🇾马来西亚_5ef36
+- name: 🇮🇩印度尼西亚_5ef36
   type: vmess
   server: v29.hdacd.com
   port: 30829
@@ -50633,13 +50633,112 @@ proxies:
   type: ss
   cipher: auto
   password: Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTMwNjBkZi1iMDYwLTQyZWItOWJiZC1jYjVkNzhjMzVjNmY
-- name: 🏳️未知_28c77
+- name: 🏳️未知_6c110
   server: sdgjlkdsgg
   port: 6331
   udp: true
   type: ss
   cipher: auto
   password: Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTMwNjBkZi1iMDYwLTQyZWItOWJiZC1jYjVkNzhjMzVjNmY
+- name: 🇯🇵日本_b9821
+  type: vmess
+  server: 64.83.33.212
+  port: 15888
+  uuid: 763c90da-ed9f-4dbb-a5cb-298d8df205d7
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: tcp
+  servername: ''
+  udp: true
+- name: 🇯🇵日本_80ec4
+  type: vmess
+  server: 64.83.33.212
+  port: 15102
+  uuid: 763c90da-ed9f-4dbb-a5cb-298d8df205d7
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: tcp
+  servername: ''
+  udp: true
+- name: 🇯🇵日本_a36aa
+  type: vmess
+  server: 64.83.33.212
+  port: 15103
+  uuid: 763c90da-ed9f-4dbb-a5cb-298d8df205d7
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: tcp
+  servername: ''
+  udp: true
+- name: 🇯🇵日本_00cb0
+  type: vmess
+  server: 64.83.33.212
+  port: 20110
+  uuid: 763c90da-ed9f-4dbb-a5cb-298d8df205d7
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: tcp
+  servername: ''
+  udp: true
+- name: 🇯🇵日本_dde9e
+  type: vmess
+  server: 64.83.33.212
+  port: 15000
+  uuid: 4a45790b-607a-467d-bfdd-242242710d93
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: tcp
+  servername: ''
+  udp: true
+- name: 🇯🇵日本_fdf87
+  type: vmess
+  server: 64.83.33.212
+  port: 15888
+  uuid: 4a45790b-607a-467d-bfdd-242242710d93
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: tcp
+  servername: ''
+  udp: true
+- name: 🇯🇵日本_f2373
+  type: vmess
+  server: 64.83.33.212
+  port: 15102
+  uuid: 4a45790b-607a-467d-bfdd-242242710d93
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: tcp
+  servername: ''
+  udp: true
+- name: 🇯🇵日本_ef547
+  type: vmess
+  server: 64.83.33.212
+  port: 15103
+  uuid: 4a45790b-607a-467d-bfdd-242242710d93
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: tcp
+  servername: ''
+  udp: true
+- name: 🇯🇵日本_f45cb
+  type: vmess
+  server: 64.83.33.212
+  port: 20110
+  uuid: 4a45790b-607a-467d-bfdd-242242710d93
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: tcp
+  servername: ''
+  udp: true
 proxy-groups:
 - name: 🚀 节点选择
   type: select
@@ -51915,7 +52014,7 @@ proxy-groups:
   - 🇱🇻拉脱维亚_059df
   - 🇭🇰香港_3c6ad
   - 🇭🇰香港_45238
-  - 🇲🇾马来西亚_88a01
+  - 🇮🇩印度尼西亚_88a01
   - 🇨🇦加拿大_3fbd3
   - 🇰🇷韩国_a7248
   - 🇻🇳越南_85e45
@@ -51924,14 +52023,14 @@ proxy-groups:
   - 🇲🇾马来西亚_3d019
   - 🇦🇹奥地利_736ea
   - 🇮🇪爱尔兰_4c18e
-  - 🇲🇾马来西亚_2088d
+  - 🇮🇩印度尼西亚_2088d
   - 🇮🇪爱尔兰_21fbd
   - 🇺🇸美国_6dce2
   - 🇮🇪爱尔兰_3bf24
   - 🇭🇰香港_68371
   - 🇺🇸美国_999c5
   - 🇯🇵日本_cb424
-  - 🇲🇾马来西亚_810b9
+  - 🇮🇩印度尼西亚_810b9
   - 🇺🇸美国_13b26
   - 🇭🇰香港_01d04
   - 🇭🇰香港_87296
@@ -51961,7 +52060,7 @@ proxy-groups:
   - 🇭🇰香港_99312
   - 🇺🇸美国_5b274
   - 🇭🇰香港_cf46d
-  - 🇲🇾马来西亚_58ac6
+  - 🇮🇩印度尼西亚_58ac6
   - 🇭🇰香港_f7cae
   - 🇰🇷韩国_afbbd
   - 🇭🇰香港_9faf8
@@ -51979,7 +52078,7 @@ proxy-groups:
   - 🇨🇦加拿大_33a38
   - 🇩🇪德国_c74f7
   - 🇺🇸美国_ac439
-  - 🇲🇾马来西亚_5ef36
+  - 🇮🇩印度尼西亚_5ef36
   - 🇩🇪德国_c4c70
   - 🇺🇸美国_6ba5c
   - 🇭🇰香港_521da
@@ -55170,7 +55269,16 @@ proxy-groups:
   - 🇭🇰香港_1a4ac
   - 🇸🇨塞舌尔_11a27
   - 🏳️未知_18f7a
-  - 🏳️未知_28c77
+  - 🏳️未知_6c110
+  - 🇯🇵日本_b9821
+  - 🇯🇵日本_80ec4
+  - 🇯🇵日本_a36aa
+  - 🇯🇵日本_00cb0
+  - 🇯🇵日本_dde9e
+  - 🇯🇵日本_fdf87
+  - 🇯🇵日本_f2373
+  - 🇯🇵日本_ef547
+  - 🇯🇵日本_f45cb
 - name: ⚡ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -56446,7 +56554,7 @@ proxy-groups:
   - 🇱🇻拉脱维亚_059df
   - 🇭🇰香港_3c6ad
   - 🇭🇰香港_45238
-  - 🇲🇾马来西亚_88a01
+  - 🇮🇩印度尼西亚_88a01
   - 🇨🇦加拿大_3fbd3
   - 🇰🇷韩国_a7248
   - 🇻🇳越南_85e45
@@ -56455,14 +56563,14 @@ proxy-groups:
   - 🇲🇾马来西亚_3d019
   - 🇦🇹奥地利_736ea
   - 🇮🇪爱尔兰_4c18e
-  - 🇲🇾马来西亚_2088d
+  - 🇮🇩印度尼西亚_2088d
   - 🇮🇪爱尔兰_21fbd
   - 🇺🇸美国_6dce2
   - 🇮🇪爱尔兰_3bf24
   - 🇭🇰香港_68371
   - 🇺🇸美国_999c5
   - 🇯🇵日本_cb424
-  - 🇲🇾马来西亚_810b9
+  - 🇮🇩印度尼西亚_810b9
   - 🇺🇸美国_13b26
   - 🇭🇰香港_01d04
   - 🇭🇰香港_87296
@@ -56492,7 +56600,7 @@ proxy-groups:
   - 🇭🇰香港_99312
   - 🇺🇸美国_5b274
   - 🇭🇰香港_cf46d
-  - 🇲🇾马来西亚_58ac6
+  - 🇮🇩印度尼西亚_58ac6
   - 🇭🇰香港_f7cae
   - 🇰🇷韩国_afbbd
   - 🇭🇰香港_9faf8
@@ -56510,7 +56618,7 @@ proxy-groups:
   - 🇨🇦加拿大_33a38
   - 🇩🇪德国_c74f7
   - 🇺🇸美国_ac439
-  - 🇲🇾马来西亚_5ef36
+  - 🇮🇩印度尼西亚_5ef36
   - 🇩🇪德国_c4c70
   - 🇺🇸美国_6ba5c
   - 🇭🇰香港_521da
@@ -59701,6 +59809,15 @@ proxy-groups:
   - 🇭🇰香港_1a4ac
   - 🇸🇨塞舌尔_11a27
   - 🏳️未知_18f7a
-  - 🏳️未知_28c77
+  - 🏳️未知_6c110
+  - 🇯🇵日本_b9821
+  - 🇯🇵日本_80ec4
+  - 🇯🇵日本_a36aa
+  - 🇯🇵日本_00cb0
+  - 🇯🇵日本_dde9e
+  - 🇯🇵日本_fdf87
+  - 🇯🇵日本_f2373
+  - 🇯🇵日本_ef547
+  - 🇯🇵日本_f45cb
 rules:
 - MATCH,🚀 节点选择
