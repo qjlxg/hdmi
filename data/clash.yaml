@@ -14846,7 +14846,7 @@ proxies:
     path: /222.167.202.36:7443
     headers:
       Host: 2026.hhhhh.eu.org
-- name: 🇮🇩印度尼西亚_88a01
+- name: 🇲🇾马来西亚_88a01
   type: vmess
   server: v29.hdacd.com
   port: 30829
@@ -14942,7 +14942,7 @@ proxies:
   type: ss
   cipher: auto
   password: YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=
-- name: 🇮🇩印度尼西亚_2088d
+- name: 🇲🇾马来西亚_2088d
   type: vmess
   server: v30.hdacd.com
   port: 30830
@@ -15021,7 +15021,7 @@ proxies:
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
     short-id: ''
-- name: 🇮🇩印度尼西亚_810b9
+- name: 🇲🇾马来西亚_810b9
   type: vmess
   server: v45.hdacd.com
   port: 30845
@@ -15375,7 +15375,7 @@ proxies:
   network: tcp
   servername: broadcastlv.chat.bilibili.com
   udp: true
-- name: 🇮🇩印度尼西亚_58ac6
+- name: 🇲🇾马来西亚_58ac6
   type: vmess
   server: v8.hdacd.com
   port: 30808
@@ -15586,7 +15586,7 @@ proxies:
     path: /danfeng
     headers:
       Host: ''
-- name: 🇮🇩印度尼西亚_5ef36
+- name: 🇲🇾马来西亚_5ef36
   type: vmess
   server: v29.hdacd.com
   port: 30829
@@ -40947,7 +40947,7 @@ proxies:
   reality-opts:
     public-key: J0YofjZdMV7ddS6wdjUQPRrGQ3lWL28pdHiwLJvdlnk
     short-id: ''
-- name: 🇭🇰香港_4bc87
+- name: 🇺🇸美国_4bc87
   server: chengbai02.ascwt179.com
   port: 13223
   udp: true
@@ -47353,7 +47353,7 @@ proxies:
   reality-opts:
     public-key: J0YofjZdMV7ddS6wdjUQPRrGQ3lWL28pdHiwLJvdlnk
     short-id: ''
-- name: 🇭🇰香港_312bb
+- name: 🇺🇸美国_312bb
   server: chengbai02.ascwt179.com
   port: 13223
   udp: true
@@ -49583,13 +49583,1063 @@ proxies:
   type: ss
   cipher: auto
   password: Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNzQyOTBmYy05ODY2LTQzODUtOWEwMy0zYWE2NjE3YTBkY2Y
-- name: 🏳️未知_7f07b
+- name: 🏳️未知_35dd1
   server: sdgjlkdsgg
   port: 6331
   udp: true
   type: ss
   cipher: auto
   password: Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNzQyOTBmYy05ODY2LTQzODUtOWEwMy0zYWE2NjE3YTBkY2Y
+- name: 🇨🇳中国_e83de
+  type: vmess
+  server: 39.96.125.188
+  port: 8086
+  uuid: bf42709e-d6e5-4a0a-83f0-28c12092ef86
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  servername: ''
+  udp: true
+  ws-opts:
+    path: null
+    headers:
+      Host: null
+- name: 🇭🇰香港_8c4d7
+  server: 103.171.35.193
+  port: 20000
+  udp: true
+  type: ss
+  cipher: auto
+  password: YWVzLTEyOC1nY206ZTIxM2E1ZjEtNWE5Yy00NTQwLWEyZjgtN2E2MWYyMjIzMmVi
+- name: 🇺🇸美国_d8258
+  server: us1-ss.flyparts.cn
+  port: 10020
+  udp: true
+  type: ss
+  cipher: auto
+  password: Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOWRlYjI0NS1lMDhkLTQ2ODMtODc5OS00OWY1MWI3ZmE2MTE
+- name: 🇺🇸美国_95fcd
+  type: vmess
+  server: us1-ss.flyparts.cn
+  port: 10022
+  uuid: f9deb245-e08d-4683-8799-49f51b7fa611
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  servername: ''
+  udp: true
+  ws-opts:
+    path: /
+    headers:
+      Host: us1-ss.flyparts.cn
+- name: 🇰🇷韩国_3d028
+  server: kr-b.bnsss.cc
+  port: 8080
+  udp: true
+  type: vless
+  uuid: b6b8c29f-83cc-46dc-89ae-e5119fd216f6
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: GP-JgvD9yK2QmWphYepITYbwqecHp1XeqHcCB-wlaC4
+    short-id: 1e92c68e
+- name: 🇰🇷韩国_56fda
+  server: kr-a.bnsss.cc
+  port: 8086
+  udp: true
+  type: vless
+  uuid: b6b8c29f-83cc-46dc-89ae-e5119fd216f6
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 2P7qhDhAU70GtWv0PeXvsAViSHOSqGC4ZymlcYkoE0Q
+    short-id: f6af0bce5e18
+- name: 🇰🇷韩国_cef5a
+  server: kr-c.bnsss.cc
+  port: 8087
+  udp: true
+  type: vless
+  uuid: b6b8c29f-83cc-46dc-89ae-e5119fd216f6
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 3O5rg1ZZ16F_aLjp_prETAZR4mQlax-4j7AR7DBoh2c
+    short-id: 5b100b253c
+- name: 🇺🇸美国_cbc3b
+  server: us-a.bnsss.cc
+  port: 8088
+  udp: true
+  type: vless
+  uuid: b6b8c29f-83cc-46dc-89ae-e5119fd216f6
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: oQ0rTnitdxoFr5Z1BlW4oT1Z-oaBrSx4dMLMR9cWwns
+    short-id: 0c1df9ff0f80
+- name: 🇺🇸美国_85e70
+  server: 207.57.128.27
+  port: 8081
+  udp: true
+  type: vless
+  uuid: b6b8c29f-83cc-46dc-89ae-e5119fd216f6
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: bilDohzULHmvZE7BP9ym6URVT6R1DM06v2LLqNo7lh0
+    short-id: a1b2c3d4
+- name: 🇰🇷韩国_b9565
+  server: kr-b.bnsss.cc
+  port: 8080
+  udp: true
+  type: vless
+  uuid: bfae505c-beae-427f-8e24-9a1a6b744506
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: GP-JgvD9yK2QmWphYepITYbwqecHp1XeqHcCB-wlaC4
+    short-id: 1e92c68e
+- name: 🇰🇷韩国_80f90
+  server: kr-a.bnsss.cc
+  port: 8086
+  udp: true
+  type: vless
+  uuid: bfae505c-beae-427f-8e24-9a1a6b744506
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 2P7qhDhAU70GtWv0PeXvsAViSHOSqGC4ZymlcYkoE0Q
+    short-id: f6af0bce5e18
+- name: 🇰🇷韩国_eb871
+  server: kr-c.bnsss.cc
+  port: 8087
+  udp: true
+  type: vless
+  uuid: bfae505c-beae-427f-8e24-9a1a6b744506
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 3O5rg1ZZ16F_aLjp_prETAZR4mQlax-4j7AR7DBoh2c
+    short-id: 5b100b253c
+- name: 🇺🇸美国_bdc0c
+  server: us-a.bnsss.cc
+  port: 8088
+  udp: true
+  type: vless
+  uuid: bfae505c-beae-427f-8e24-9a1a6b744506
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: oQ0rTnitdxoFr5Z1BlW4oT1Z-oaBrSx4dMLMR9cWwns
+    short-id: 0c1df9ff0f80
+- name: 🇺🇸美国_06376
+  server: 207.57.128.27
+  port: 8081
+  udp: true
+  type: vless
+  uuid: bfae505c-beae-427f-8e24-9a1a6b744506
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: bilDohzULHmvZE7BP9ym6URVT6R1DM06v2LLqNo7lh0
+    short-id: a1b2c3d4
+- name: 🇰🇷韩国_f7320
+  server: kr-b.bnsss.cc
+  port: 8080
+  udp: true
+  type: vless
+  uuid: 278cb77d-665e-4a3f-b2d4-2470d0d1ca98
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: GP-JgvD9yK2QmWphYepITYbwqecHp1XeqHcCB-wlaC4
+    short-id: 1e92c68e
+- name: 🇰🇷韩国_5ef5e
+  server: kr-a.bnsss.cc
+  port: 8086
+  udp: true
+  type: vless
+  uuid: 278cb77d-665e-4a3f-b2d4-2470d0d1ca98
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 2P7qhDhAU70GtWv0PeXvsAViSHOSqGC4ZymlcYkoE0Q
+    short-id: f6af0bce5e18
+- name: 🇰🇷韩国_55201
+  server: kr-c.bnsss.cc
+  port: 8087
+  udp: true
+  type: vless
+  uuid: 278cb77d-665e-4a3f-b2d4-2470d0d1ca98
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 3O5rg1ZZ16F_aLjp_prETAZR4mQlax-4j7AR7DBoh2c
+    short-id: 5b100b253c
+- name: 🇺🇸美国_8fc5f
+  server: us-a.bnsss.cc
+  port: 8088
+  udp: true
+  type: vless
+  uuid: 278cb77d-665e-4a3f-b2d4-2470d0d1ca98
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: oQ0rTnitdxoFr5Z1BlW4oT1Z-oaBrSx4dMLMR9cWwns
+    short-id: 0c1df9ff0f80
+- name: 🇺🇸美国_44792
+  server: 207.57.128.27
+  port: 8081
+  udp: true
+  type: vless
+  uuid: 278cb77d-665e-4a3f-b2d4-2470d0d1ca98
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: bilDohzULHmvZE7BP9ym6URVT6R1DM06v2LLqNo7lh0
+    short-id: a1b2c3d4
+- name: 🇰🇷韩国_3436c
+  server: kr-b.bnsss.cc
+  port: 8080
+  udp: true
+  type: vless
+  uuid: 121b71cb-add0-404a-8413-13f228c2374d
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: GP-JgvD9yK2QmWphYepITYbwqecHp1XeqHcCB-wlaC4
+    short-id: 1e92c68e
+- name: 🇰🇷韩国_683ba
+  server: kr-a.bnsss.cc
+  port: 8086
+  udp: true
+  type: vless
+  uuid: 121b71cb-add0-404a-8413-13f228c2374d
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 2P7qhDhAU70GtWv0PeXvsAViSHOSqGC4ZymlcYkoE0Q
+    short-id: f6af0bce5e18
+- name: 🇰🇷韩国_5da5c
+  server: kr-c.bnsss.cc
+  port: 8087
+  udp: true
+  type: vless
+  uuid: 121b71cb-add0-404a-8413-13f228c2374d
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 3O5rg1ZZ16F_aLjp_prETAZR4mQlax-4j7AR7DBoh2c
+    short-id: 5b100b253c
+- name: 🇺🇸美国_0f09e
+  server: us-a.bnsss.cc
+  port: 8088
+  udp: true
+  type: vless
+  uuid: 121b71cb-add0-404a-8413-13f228c2374d
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: oQ0rTnitdxoFr5Z1BlW4oT1Z-oaBrSx4dMLMR9cWwns
+    short-id: 0c1df9ff0f80
+- name: 🇺🇸美国_ed364
+  server: 207.57.128.27
+  port: 8081
+  udp: true
+  type: vless
+  uuid: 121b71cb-add0-404a-8413-13f228c2374d
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: bilDohzULHmvZE7BP9ym6URVT6R1DM06v2LLqNo7lh0
+    short-id: a1b2c3d4
+- name: 🏳️未知_2589a
+  server: api.horosho-po.com
+  port: 35000
+  udp: true
+  type: vless
+  uuid: 8e3285ea-ac51-4ead-934c-2cf325474b82
+  tls: true
+  flow: xtls-rprx-vision
+  servername: ca.api.ovh.com
+  reality-opts:
+    public-key: 24Wg1_DiHV8dxLRFkb1O7cPxVyHScoba-iQ-fKistDY
+    short-id: c679
+- name: 🇬🇧英国_a5b4c
+  server: 212.135.40.60
+  port: 35001
+  udp: true
+  type: vless
+  uuid: 8e3285ea-ac51-4ead-934c-2cf325474b82
+  tls: true
+  flow: xtls-rprx-vision
+  servername: m.media-amazon.com
+  reality-opts:
+    public-key: nsCCYIR39PnIIaijUECHmb9FI06bG9vz9PLvqjnkUBM
+    short-id: 466ebd
+- name: 🇺🇸美国_22f91
+  server: ny1.naicn.top
+  port: 8443
+  udp: true
+  type: hysteria2
+  password: 074290fc-9866-4385-9a03-3aa6617a0dcf
+  sni: ny1.naicn.top
+  alpn:
+  - h3
+- name: 🇺🇸美国_9d0e1
+  server: tc1.naicn.top
+  port: 443
+  udp: true
+  type: hysteria2
+  password: 074290fc-9866-4385-9a03-3aa6617a0dcf
+  sni: tc1.naicn.top
+  alpn:
+  - h3
+- name: 🇭🇰香港_c40af
+  server: akhk1.naicn.top
+  port: 8443
+  udp: true
+  type: hysteria2
+  password: 074290fc-9866-4385-9a03-3aa6617a0dcf
+  sni: akhk1.naicn.top
+  alpn:
+  - h3
+- name: 🇸🇨塞舌尔_587f9
+  server: jp1.naicn.top
+  port: 8443
+  udp: true
+  type: hysteria2
+  password: 074290fc-9866-4385-9a03-3aa6617a0dcf
+  sni: jp1.naicn.top
+  alpn:
+  - h3
+- name: 🏳️未知_b3cdb
+  server: rhfghfghfg
+  port: 1424
+  udp: true
+  type: ss
+  cipher: auto
+  password: Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNzQyOTBmYy05ODY2LTQzODUtOWEwMy0zYWE2NjE3YTBkY2Y
+- name: 🏳️未知_5a521
+  server: sdgjlkdsgg
+  port: 6331
+  udp: true
+  type: ss
+  cipher: auto
+  password: Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNzQyOTBmYy05ODY2LTQzODUtOWEwMy0zYWE2NjE3YTBkY2Y
+- name: 🇰🇷韩国_28d66
+  server: okrs01.7770123.xyz
+  port: 443
+  udp: true
+  type: vless
+  uuid: 179a03d4-5cf5-4dbf-a165-2a19f1967a41
+  tls: true
+  flow: xtls-rprx-vision
+  servername: python.org
+  reality-opts:
+    public-key: D993LOHbMkHx8Ic_a-bst3KztSHblZ296AD54LQ1G3s
+    short-id: ''
+- name: 🇸🇬新加坡_ac9d1
+  server: osg01.7770123.xyz
+  port: 443
+  udp: true
+  type: vless
+  uuid: 179a03d4-5cf5-4dbf-a165-2a19f1967a41
+  tls: true
+  flow: xtls-rprx-vision
+  servername: python.org
+  reality-opts:
+    public-key: 3xCiQf_65np89CijutgG_Z5kd9aOObPKD6ZmuTk7DG0
+    short-id: ''
+- name: 🇨🇳中国_49c72
+  type: vmess
+  server: 39.96.125.188
+  port: 8086
+  uuid: bf42709e-d6e5-4a0a-83f0-28c12092ef86
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  servername: ''
+  udp: true
+  ws-opts:
+    path: null
+    headers:
+      Host: null
+- name: 🇭🇰香港_f4e5b
+  server: 103.171.35.193
+  port: 20000
+  udp: true
+  type: ss
+  cipher: auto
+  password: YWVzLTEyOC1nY206ZTIxM2E1ZjEtNWE5Yy00NTQwLWEyZjgtN2E2MWYyMjIzMmVi
+- name: 🇺🇸美国_6da60
+  server: us1-ss.flyparts.cn
+  port: 10020
+  udp: true
+  type: ss
+  cipher: auto
+  password: Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOWRlYjI0NS1lMDhkLTQ2ODMtODc5OS00OWY1MWI3ZmE2MTE
+- name: 🇺🇸美国_4ae8f
+  type: vmess
+  server: us1-ss.flyparts.cn
+  port: 10022
+  uuid: f9deb245-e08d-4683-8799-49f51b7fa611
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  servername: ''
+  udp: true
+  ws-opts:
+    path: /
+    headers:
+      Host: us1-ss.flyparts.cn
+- name: 🇰🇷韩国_0d67c
+  server: kr-b.bnsss.cc
+  port: 8080
+  udp: true
+  type: vless
+  uuid: b6b8c29f-83cc-46dc-89ae-e5119fd216f6
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: GP-JgvD9yK2QmWphYepITYbwqecHp1XeqHcCB-wlaC4
+    short-id: 1e92c68e
+- name: 🇰🇷韩国_b229b
+  server: kr-a.bnsss.cc
+  port: 8086
+  udp: true
+  type: vless
+  uuid: b6b8c29f-83cc-46dc-89ae-e5119fd216f6
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 2P7qhDhAU70GtWv0PeXvsAViSHOSqGC4ZymlcYkoE0Q
+    short-id: f6af0bce5e18
+- name: 🇰🇷韩国_34ce5
+  server: kr-c.bnsss.cc
+  port: 8087
+  udp: true
+  type: vless
+  uuid: b6b8c29f-83cc-46dc-89ae-e5119fd216f6
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 3O5rg1ZZ16F_aLjp_prETAZR4mQlax-4j7AR7DBoh2c
+    short-id: 5b100b253c
+- name: 🇺🇸美国_80a4e
+  server: us-a.bnsss.cc
+  port: 8088
+  udp: true
+  type: vless
+  uuid: b6b8c29f-83cc-46dc-89ae-e5119fd216f6
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: oQ0rTnitdxoFr5Z1BlW4oT1Z-oaBrSx4dMLMR9cWwns
+    short-id: 0c1df9ff0f80
+- name: 🇺🇸美国_759ee
+  server: 207.57.128.27
+  port: 8081
+  udp: true
+  type: vless
+  uuid: b6b8c29f-83cc-46dc-89ae-e5119fd216f6
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: bilDohzULHmvZE7BP9ym6URVT6R1DM06v2LLqNo7lh0
+    short-id: a1b2c3d4
+- name: 🇰🇷韩国_029a3
+  server: kr-b.bnsss.cc
+  port: 8080
+  udp: true
+  type: vless
+  uuid: bfae505c-beae-427f-8e24-9a1a6b744506
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: GP-JgvD9yK2QmWphYepITYbwqecHp1XeqHcCB-wlaC4
+    short-id: 1e92c68e
+- name: 🇰🇷韩国_6a5ac
+  server: kr-a.bnsss.cc
+  port: 8086
+  udp: true
+  type: vless
+  uuid: bfae505c-beae-427f-8e24-9a1a6b744506
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 2P7qhDhAU70GtWv0PeXvsAViSHOSqGC4ZymlcYkoE0Q
+    short-id: f6af0bce5e18
+- name: 🇰🇷韩国_9644d
+  server: kr-c.bnsss.cc
+  port: 8087
+  udp: true
+  type: vless
+  uuid: bfae505c-beae-427f-8e24-9a1a6b744506
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 3O5rg1ZZ16F_aLjp_prETAZR4mQlax-4j7AR7DBoh2c
+    short-id: 5b100b253c
+- name: 🇺🇸美国_a6e95
+  server: us-a.bnsss.cc
+  port: 8088
+  udp: true
+  type: vless
+  uuid: bfae505c-beae-427f-8e24-9a1a6b744506
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: oQ0rTnitdxoFr5Z1BlW4oT1Z-oaBrSx4dMLMR9cWwns
+    short-id: 0c1df9ff0f80
+- name: 🇺🇸美国_0d7f3
+  server: 207.57.128.27
+  port: 8081
+  udp: true
+  type: vless
+  uuid: bfae505c-beae-427f-8e24-9a1a6b744506
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: bilDohzULHmvZE7BP9ym6URVT6R1DM06v2LLqNo7lh0
+    short-id: a1b2c3d4
+- name: 🇰🇷韩国_f07a3
+  server: kr-b.bnsss.cc
+  port: 8080
+  udp: true
+  type: vless
+  uuid: 278cb77d-665e-4a3f-b2d4-2470d0d1ca98
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: GP-JgvD9yK2QmWphYepITYbwqecHp1XeqHcCB-wlaC4
+    short-id: 1e92c68e
+- name: 🇰🇷韩国_07c26
+  server: kr-a.bnsss.cc
+  port: 8086
+  udp: true
+  type: vless
+  uuid: 278cb77d-665e-4a3f-b2d4-2470d0d1ca98
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 2P7qhDhAU70GtWv0PeXvsAViSHOSqGC4ZymlcYkoE0Q
+    short-id: f6af0bce5e18
+- name: 🇰🇷韩国_7a065
+  server: kr-c.bnsss.cc
+  port: 8087
+  udp: true
+  type: vless
+  uuid: 278cb77d-665e-4a3f-b2d4-2470d0d1ca98
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 3O5rg1ZZ16F_aLjp_prETAZR4mQlax-4j7AR7DBoh2c
+    short-id: 5b100b253c
+- name: 🇺🇸美国_81b67
+  server: us-a.bnsss.cc
+  port: 8088
+  udp: true
+  type: vless
+  uuid: 278cb77d-665e-4a3f-b2d4-2470d0d1ca98
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: oQ0rTnitdxoFr5Z1BlW4oT1Z-oaBrSx4dMLMR9cWwns
+    short-id: 0c1df9ff0f80
+- name: 🇺🇸美国_182ad
+  server: 207.57.128.27
+  port: 8081
+  udp: true
+  type: vless
+  uuid: 278cb77d-665e-4a3f-b2d4-2470d0d1ca98
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: bilDohzULHmvZE7BP9ym6URVT6R1DM06v2LLqNo7lh0
+    short-id: a1b2c3d4
+- name: 🇰🇷韩国_5ced5
+  server: kr-b.bnsss.cc
+  port: 8080
+  udp: true
+  type: vless
+  uuid: 121b71cb-add0-404a-8413-13f228c2374d
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: GP-JgvD9yK2QmWphYepITYbwqecHp1XeqHcCB-wlaC4
+    short-id: 1e92c68e
+- name: 🇰🇷韩国_afde8
+  server: kr-a.bnsss.cc
+  port: 8086
+  udp: true
+  type: vless
+  uuid: 121b71cb-add0-404a-8413-13f228c2374d
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 2P7qhDhAU70GtWv0PeXvsAViSHOSqGC4ZymlcYkoE0Q
+    short-id: f6af0bce5e18
+- name: 🇰🇷韩国_4a9d7
+  server: kr-c.bnsss.cc
+  port: 8087
+  udp: true
+  type: vless
+  uuid: 121b71cb-add0-404a-8413-13f228c2374d
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 3O5rg1ZZ16F_aLjp_prETAZR4mQlax-4j7AR7DBoh2c
+    short-id: 5b100b253c
+- name: 🇺🇸美国_67cca
+  server: us-a.bnsss.cc
+  port: 8088
+  udp: true
+  type: vless
+  uuid: 121b71cb-add0-404a-8413-13f228c2374d
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: oQ0rTnitdxoFr5Z1BlW4oT1Z-oaBrSx4dMLMR9cWwns
+    short-id: 0c1df9ff0f80
+- name: 🇺🇸美国_8544f
+  server: 207.57.128.27
+  port: 8081
+  udp: true
+  type: vless
+  uuid: 121b71cb-add0-404a-8413-13f228c2374d
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: bilDohzULHmvZE7BP9ym6URVT6R1DM06v2LLqNo7lh0
+    short-id: a1b2c3d4
+- name: 🏳️未知_38d03
+  server: api.horosho-po.com
+  port: 35000
+  udp: true
+  type: vless
+  uuid: 8e3285ea-ac51-4ead-934c-2cf325474b82
+  tls: true
+  flow: xtls-rprx-vision
+  servername: ca.api.ovh.com
+  reality-opts:
+    public-key: 24Wg1_DiHV8dxLRFkb1O7cPxVyHScoba-iQ-fKistDY
+    short-id: c679
+- name: 🇬🇧英国_d4db3
+  server: 212.135.40.60
+  port: 35001
+  udp: true
+  type: vless
+  uuid: 8e3285ea-ac51-4ead-934c-2cf325474b82
+  tls: true
+  flow: xtls-rprx-vision
+  servername: m.media-amazon.com
+  reality-opts:
+    public-key: nsCCYIR39PnIIaijUECHmb9FI06bG9vz9PLvqjnkUBM
+    short-id: 466ebd
+- name: 🇺🇸美国_dae72
+  server: ny1.naicn.top
+  port: 8443
+  udp: true
+  type: hysteria2
+  password: 074290fc-9866-4385-9a03-3aa6617a0dcf
+  sni: ny1.naicn.top
+  alpn:
+  - h3
+- name: 🇺🇸美国_5115d
+  server: tc1.naicn.top
+  port: 443
+  udp: true
+  type: hysteria2
+  password: 074290fc-9866-4385-9a03-3aa6617a0dcf
+  sni: tc1.naicn.top
+  alpn:
+  - h3
+- name: 🇭🇰香港_d9ed5
+  server: akhk1.naicn.top
+  port: 8443
+  udp: true
+  type: hysteria2
+  password: 074290fc-9866-4385-9a03-3aa6617a0dcf
+  sni: akhk1.naicn.top
+  alpn:
+  - h3
+- name: 🇸🇨塞舌尔_5b86f
+  server: jp1.naicn.top
+  port: 8443
+  udp: true
+  type: hysteria2
+  password: 074290fc-9866-4385-9a03-3aa6617a0dcf
+  sni: jp1.naicn.top
+  alpn:
+  - h3
+- name: 🏳️未知_c22ad
+  server: rhfghfghfg
+  port: 1424
+  udp: true
+  type: ss
+  cipher: auto
+  password: Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNzQyOTBmYy05ODY2LTQzODUtOWEwMy0zYWE2NjE3YTBkY2Y
+- name: 🏳️未知_69a82
+  server: sdgjlkdsgg
+  port: 6331
+  udp: true
+  type: ss
+  cipher: auto
+  password: Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNzQyOTBmYy05ODY2LTQzODUtOWEwMy0zYWE2NjE3YTBkY2Y
+- name: 🇰🇷韩国_5fbda
+  server: okrs01.7770123.xyz
+  port: 443
+  udp: true
+  type: vless
+  uuid: 179a03d4-5cf5-4dbf-a165-2a19f1967a41
+  tls: true
+  flow: xtls-rprx-vision
+  servername: python.org
+  reality-opts:
+    public-key: D993LOHbMkHx8Ic_a-bst3KztSHblZ296AD54LQ1G3s
+    short-id: ''
+- name: 🇸🇬新加坡_ec33c
+  server: osg01.7770123.xyz
+  port: 443
+  udp: true
+  type: vless
+  uuid: 179a03d4-5cf5-4dbf-a165-2a19f1967a41
+  tls: true
+  flow: xtls-rprx-vision
+  servername: python.org
+  reality-opts:
+    public-key: 3xCiQf_65np89CijutgG_Z5kd9aOObPKD6ZmuTk7DG0
+    short-id: ''
+- name: 🇭🇰香港_1249c
+  server: 167.148.203.251
+  port: 8444
+  udp: true
+  type: vless
+  uuid: e4ad1416-2157-4e16-b23a-071f63c8dfbe
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.microsoft.com
+  reality-opts:
+    public-key: kfYy9IKo7cFzCYLcxM4SXPyONrJS-e6QkeGq0-BahDM
+    short-id: ee4b244b
+- name: 🏳️未知_7a870
+  server: 2a0e
+  port: 97
+  udp: true
+  type: vless
+  uuid: e4ad1416-2157-4e16-b23a-071f63c8dfbe
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.microsoft.com
+  reality-opts:
+    public-key: 5u-SN1K38ehmITs8yFLfatdBxT2CZizLzq3t0E34Mn8
+    short-id: f6a2b8b8
+- name: 🇭🇰香港_de893
+  server: 38.6.219.112
+  port: 8445
+  udp: true
+  type: vless
+  uuid: e4ad1416-2157-4e16-b23a-071f63c8dfbe
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.microsoft.com
+  reality-opts:
+    public-key: JurzHItNA7yFNZnIqWQ66uNW17rlzfvd9-ji8BKuv3s
+    short-id: 95bb4c40
+- name: 🇯🇵日本_5b60f
+  server: 156.246.93.122
+  port: 8443
+  udp: true
+  type: vless
+  uuid: e4ad1416-2157-4e16-b23a-071f63c8dfbe
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.microsoft.com
+  reality-opts:
+    public-key: V28FrAgveXEJ7xA_5GENfCoTyBp3ngsZlHB4qg1GMiM
+    short-id: 50e7403e
+- name: 🇺🇸美国_c1d67
+  server: 185.106.96.126
+  port: 8446
+  udp: true
+  type: vless
+  uuid: e4ad1416-2157-4e16-b23a-071f63c8dfbe
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.microsoft.com
+  reality-opts:
+    public-key: YS1b0-AHpKSDqTrWCmNA-lDEiSDc4HaSOeuPTOO72EM
+    short-id: 3ea5fa2b
+- name: 🇯🇵日本_6d106
+  server: 66.235.104.197
+  port: 25858
+  udp: true
+  type: vless
+  uuid: e4ad1416-2157-4e16-b23a-071f63c8dfbe
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.microsoft.com
+  reality-opts:
+    public-key: YC0VJHGMmS3_EEyrG1ksNmW3EHuG5QHUIUHftnbZtnw
+    short-id: 13f31dc2
+- name: 🇺🇸美国_4143f
+  type: vmess
+  server: ali-us-wave.tkvip.xyz
+  port: 4433
+  uuid: 801e2eb4-74d7-401d-9f68-07a970bf103e
+  alterId: 0
+  cipher: auto
+  tls: true
+  network: tcp
+  servername: ali-us-wave.tkvip.xyz
+  udp: true
+- name: 🇸🇬新加坡_85ee1
+  type: vmess
+  server: sg-jk.tkvip.xyz
+  port: 4443
+  uuid: 801e2eb4-74d7-401d-9f68-07a970bf103e
+  alterId: 0
+  cipher: auto
+  tls: true
+  network: tcp
+  servername: sg-jk.tkvip.xyz
+  udp: true
+- name: 🇺🇸美国_d2ecb
+  type: vmess
+  server: us-cox-jk.tkvip.xyz
+  port: 443
+  uuid: 801e2eb4-74d7-401d-9f68-07a970bf103e
+  alterId: 0
+  cipher: auto
+  tls: true
+  network: tcp
+  servername: us-cox-jk.tkvip.xyz
+  udp: true
+- name: 🇲🇾马来西亚_eb7d3
+  type: vmess
+  server: mlxy-jk.tkvip.xyz
+  port: 443
+  uuid: 801e2eb4-74d7-401d-9f68-07a970bf103e
+  alterId: 0
+  cipher: auto
+  tls: true
+  network: tcp
+  servername: mlxy-jk.tkvip.xyz
+  udp: true
+- name: 🇭🇰香港_06d6e
+  server: hk-2.tkvip.xyz
+  port: 443
+  udp: true
+  type: ss
+  cipher: auto
+  password: YWVzLTI1Ni1nY206ODAxZTJlYjQtNzRkNy00MDFkLTlmNjgtMDdhOTcwYmYxMDNl
+- name: 🇭🇰香港_8d0cb
+  server: 103.171.35.193
+  port: 20000
+  udp: true
+  type: ss
+  cipher: auto
+  password: YWVzLTEyOC1nY206NjdhMzliOWYtODdkNC00MjRlLWIzZGYtYjAxOWY1MGE4NTAy
+- name: 🇺🇸美国_16931
+  server: us1-ss.flyparts.cn
+  port: 10020
+  udp: true
+  type: ss
+  cipher: auto
+  password: Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzRjZDA4NC0yYzIzLTRmYjItOTc0Mi0zZTc5NzM3YTZmYWI
+- name: 🇺🇸美国_8b0fb
+  type: vmess
+  server: us1-ss.flyparts.cn
+  port: 10022
+  uuid: c74cd084-2c23-4fb2-9742-3e79737a6fab
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  servername: ''
+  udp: true
+  ws-opts:
+    path: /
+    headers:
+      Host: us1-ss.flyparts.cn
+- name: 🇰🇷韩国_c6d0f
+  server: kr-b.bnsss.cc
+  port: 8080
+  udp: true
+  type: vless
+  uuid: 3e0cf659-e3a4-4a15-ad93-442d1449f0db
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: GP-JgvD9yK2QmWphYepITYbwqecHp1XeqHcCB-wlaC4
+    short-id: 1e92c68e
+- name: 🇰🇷韩国_69a88
+  server: kr-a.bnsss.cc
+  port: 8086
+  udp: true
+  type: vless
+  uuid: 3e0cf659-e3a4-4a15-ad93-442d1449f0db
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 2P7qhDhAU70GtWv0PeXvsAViSHOSqGC4ZymlcYkoE0Q
+    short-id: f6af0bce5e18
+- name: 🇰🇷韩国_8969d
+  server: kr-c.bnsss.cc
+  port: 8087
+  udp: true
+  type: vless
+  uuid: 3e0cf659-e3a4-4a15-ad93-442d1449f0db
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: 3O5rg1ZZ16F_aLjp_prETAZR4mQlax-4j7AR7DBoh2c
+    short-id: 5b100b253c
+- name: 🇺🇸美国_00e95
+  server: us-a.bnsss.cc
+  port: 8088
+  udp: true
+  type: vless
+  uuid: 3e0cf659-e3a4-4a15-ad93-442d1449f0db
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: oQ0rTnitdxoFr5Z1BlW4oT1Z-oaBrSx4dMLMR9cWwns
+    short-id: 0c1df9ff0f80
+- name: 🇺🇸美国_c583e
+  server: 207.57.128.27
+  port: 8081
+  udp: true
+  type: vless
+  uuid: 3e0cf659-e3a4-4a15-ad93-442d1449f0db
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  reality-opts:
+    public-key: bilDohzULHmvZE7BP9ym6URVT6R1DM06v2LLqNo7lh0
+    short-id: a1b2c3d4
+- name: 🏳️未知_5e4ca
+  server: api.horosho-po.com
+  port: 35000
+  udp: true
+  type: vless
+  uuid: 1b1791ec-0d14-4455-bdde-e4d3e005c098
+  tls: true
+  flow: xtls-rprx-vision
+  servername: ca.api.ovh.com
+  reality-opts:
+    public-key: 24Wg1_DiHV8dxLRFkb1O7cPxVyHScoba-iQ-fKistDY
+    short-id: c679
+- name: 🇬🇧英国_e9f33
+  server: 212.135.40.60
+  port: 35001
+  udp: true
+  type: vless
+  uuid: 1b1791ec-0d14-4455-bdde-e4d3e005c098
+  tls: true
+  flow: xtls-rprx-vision
+  servername: m.media-amazon.com
+  reality-opts:
+    public-key: nsCCYIR39PnIIaijUECHmb9FI06bG9vz9PLvqjnkUBM
+    short-id: 466ebd
+- name: 🇺🇸美国_99eeb
+  server: ny1.naicn.top
+  port: 8443
+  udp: true
+  type: hysteria2
+  password: da3060df-b060-42eb-9bbd-cb5d78c35c6f
+  sni: ny1.naicn.top
+  alpn:
+  - h3
+- name: 🇺🇸美国_da928
+  server: tc1.naicn.top
+  port: 443
+  udp: true
+  type: hysteria2
+  password: da3060df-b060-42eb-9bbd-cb5d78c35c6f
+  sni: tc1.naicn.top
+  alpn:
+  - h3
+- name: 🇭🇰香港_1a4ac
+  server: akhk1.naicn.top
+  port: 8443
+  udp: true
+  type: hysteria2
+  password: da3060df-b060-42eb-9bbd-cb5d78c35c6f
+  sni: akhk1.naicn.top
+  alpn:
+  - h3
+- name: 🇸🇨塞舌尔_11a27
+  server: jp1.naicn.top
+  port: 8443
+  udp: true
+  type: hysteria2
+  password: da3060df-b060-42eb-9bbd-cb5d78c35c6f
+  sni: jp1.naicn.top
+  alpn:
+  - h3
+- name: 🏳️未知_18f7a
+  server: rhfghfghfg
+  port: 1424
+  udp: true
+  type: ss
+  cipher: auto
+  password: Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTMwNjBkZi1iMDYwLTQyZWItOWJiZC1jYjVkNzhjMzVjNmY
+- name: 🏳️未知_28c77
+  server: sdgjlkdsgg
+  port: 6331
+  udp: true
+  type: ss
+  cipher: auto
+  password: Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTMwNjBkZi1iMDYwLTQyZWItOWJiZC1jYjVkNzhjMzVjNmY
 proxy-groups:
 - name: 🚀 节点选择
   type: select
@@ -50865,7 +51915,7 @@ proxy-groups:
   - 🇱🇻拉脱维亚_059df
   - 🇭🇰香港_3c6ad
   - 🇭🇰香港_45238
-  - 🇮🇩印度尼西亚_88a01
+  - 🇲🇾马来西亚_88a01
   - 🇨🇦加拿大_3fbd3
   - 🇰🇷韩国_a7248
   - 🇻🇳越南_85e45
@@ -50874,14 +51924,14 @@ proxy-groups:
   - 🇲🇾马来西亚_3d019
   - 🇦🇹奥地利_736ea
   - 🇮🇪爱尔兰_4c18e
-  - 🇮🇩印度尼西亚_2088d
+  - 🇲🇾马来西亚_2088d
   - 🇮🇪爱尔兰_21fbd
   - 🇺🇸美国_6dce2
   - 🇮🇪爱尔兰_3bf24
   - 🇭🇰香港_68371
   - 🇺🇸美国_999c5
   - 🇯🇵日本_cb424
-  - 🇮🇩印度尼西亚_810b9
+  - 🇲🇾马来西亚_810b9
   - 🇺🇸美国_13b26
   - 🇭🇰香港_01d04
   - 🇭🇰香港_87296
@@ -50911,7 +51961,7 @@ proxy-groups:
   - 🇭🇰香港_99312
   - 🇺🇸美国_5b274
   - 🇭🇰香港_cf46d
-  - 🇮🇩印度尼西亚_58ac6
+  - 🇲🇾马来西亚_58ac6
   - 🇭🇰香港_f7cae
   - 🇰🇷韩国_afbbd
   - 🇭🇰香港_9faf8
@@ -50929,7 +51979,7 @@ proxy-groups:
   - 🇨🇦加拿大_33a38
   - 🇩🇪德国_c74f7
   - 🇺🇸美国_ac439
-  - 🇮🇩印度尼西亚_5ef36
+  - 🇲🇾马来西亚_5ef36
   - 🇩🇪德国_c4c70
   - 🇺🇸美国_6ba5c
   - 🇭🇰香港_521da
@@ -53139,7 +54189,7 @@ proxy-groups:
   - 🇯🇵日本_d1ac5
   - 🇯🇵日本_9a894
   - 🇺🇸美国_598f9
-  - 🇭🇰香港_4bc87
+  - 🇺🇸美国_4bc87
   - 🇨🇳中国_de1c1
   - 🇨🇳中国_cc6ce
   - 🇨🇳中国_2dc17
@@ -53814,7 +54864,7 @@ proxy-groups:
   - 🇯🇵日本_dd295
   - 🇯🇵日本_e2b12
   - 🇺🇸美国_e2ded
-  - 🇭🇰香港_312bb
+  - 🇺🇸美国_312bb
   - 🇨🇳中国_7b404
   - 🇨🇳中国_6d965
   - 🇨🇳中国_c81fb
@@ -54025,7 +55075,102 @@ proxy-groups:
   - 🇭🇰香港_ad298
   - 🇸🇨塞舌尔_f7db9
   - 🏳️未知_b1506
-  - 🏳️未知_7f07b
+  - 🏳️未知_35dd1
+  - 🇨🇳中国_e83de
+  - 🇭🇰香港_8c4d7
+  - 🇺🇸美国_d8258
+  - 🇺🇸美国_95fcd
+  - 🇰🇷韩国_3d028
+  - 🇰🇷韩国_56fda
+  - 🇰🇷韩国_cef5a
+  - 🇺🇸美国_cbc3b
+  - 🇺🇸美国_85e70
+  - 🇰🇷韩国_b9565
+  - 🇰🇷韩国_80f90
+  - 🇰🇷韩国_eb871
+  - 🇺🇸美国_bdc0c
+  - 🇺🇸美国_06376
+  - 🇰🇷韩国_f7320
+  - 🇰🇷韩国_5ef5e
+  - 🇰🇷韩国_55201
+  - 🇺🇸美国_8fc5f
+  - 🇺🇸美国_44792
+  - 🇰🇷韩国_3436c
+  - 🇰🇷韩国_683ba
+  - 🇰🇷韩国_5da5c
+  - 🇺🇸美国_0f09e
+  - 🇺🇸美国_ed364
+  - 🏳️未知_2589a
+  - 🇬🇧英国_a5b4c
+  - 🇺🇸美国_22f91
+  - 🇺🇸美国_9d0e1
+  - 🇭🇰香港_c40af
+  - 🇸🇨塞舌尔_587f9
+  - 🏳️未知_b3cdb
+  - 🏳️未知_5a521
+  - 🇰🇷韩国_28d66
+  - 🇸🇬新加坡_ac9d1
+  - 🇨🇳中国_49c72
+  - 🇭🇰香港_f4e5b
+  - 🇺🇸美国_6da60
+  - 🇺🇸美国_4ae8f
+  - 🇰🇷韩国_0d67c
+  - 🇰🇷韩国_b229b
+  - 🇰🇷韩国_34ce5
+  - 🇺🇸美国_80a4e
+  - 🇺🇸美国_759ee
+  - 🇰🇷韩国_029a3
+  - 🇰🇷韩国_6a5ac
+  - 🇰🇷韩国_9644d
+  - 🇺🇸美国_a6e95
+  - 🇺🇸美国_0d7f3
+  - 🇰🇷韩国_f07a3
+  - 🇰🇷韩国_07c26
+  - 🇰🇷韩国_7a065
+  - 🇺🇸美国_81b67
+  - 🇺🇸美国_182ad
+  - 🇰🇷韩国_5ced5
+  - 🇰🇷韩国_afde8
+  - 🇰🇷韩国_4a9d7
+  - 🇺🇸美国_67cca
+  - 🇺🇸美国_8544f
+  - 🏳️未知_38d03
+  - 🇬🇧英国_d4db3
+  - 🇺🇸美国_dae72
+  - 🇺🇸美国_5115d
+  - 🇭🇰香港_d9ed5
+  - 🇸🇨塞舌尔_5b86f
+  - 🏳️未知_c22ad
+  - 🏳️未知_69a82
+  - 🇰🇷韩国_5fbda
+  - 🇸🇬新加坡_ec33c
+  - 🇭🇰香港_1249c
+  - 🏳️未知_7a870
+  - 🇭🇰香港_de893
+  - 🇯🇵日本_5b60f
+  - 🇺🇸美国_c1d67
+  - 🇯🇵日本_6d106
+  - 🇺🇸美国_4143f
+  - 🇸🇬新加坡_85ee1
+  - 🇺🇸美国_d2ecb
+  - 🇲🇾马来西亚_eb7d3
+  - 🇭🇰香港_06d6e
+  - 🇭🇰香港_8d0cb
+  - 🇺🇸美国_16931
+  - 🇺🇸美国_8b0fb
+  - 🇰🇷韩国_c6d0f
+  - 🇰🇷韩国_69a88
+  - 🇰🇷韩国_8969d
+  - 🇺🇸美国_00e95
+  - 🇺🇸美国_c583e
+  - 🏳️未知_5e4ca
+  - 🇬🇧英国_e9f33
+  - 🇺🇸美国_99eeb
+  - 🇺🇸美国_da928
+  - 🇭🇰香港_1a4ac
+  - 🇸🇨塞舌尔_11a27
+  - 🏳️未知_18f7a
+  - 🏳️未知_28c77
 - name: ⚡ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -55301,7 +56446,7 @@ proxy-groups:
   - 🇱🇻拉脱维亚_059df
   - 🇭🇰香港_3c6ad
   - 🇭🇰香港_45238
-  - 🇮🇩印度尼西亚_88a01
+  - 🇲🇾马来西亚_88a01
   - 🇨🇦加拿大_3fbd3
   - 🇰🇷韩国_a7248
   - 🇻🇳越南_85e45
@@ -55310,14 +56455,14 @@ proxy-groups:
   - 🇲🇾马来西亚_3d019
   - 🇦🇹奥地利_736ea
   - 🇮🇪爱尔兰_4c18e
-  - 🇮🇩印度尼西亚_2088d
+  - 🇲🇾马来西亚_2088d
   - 🇮🇪爱尔兰_21fbd
   - 🇺🇸美国_6dce2
   - 🇮🇪爱尔兰_3bf24
   - 🇭🇰香港_68371
   - 🇺🇸美国_999c5
   - 🇯🇵日本_cb424
-  - 🇮🇩印度尼西亚_810b9
+  - 🇲🇾马来西亚_810b9
   - 🇺🇸美国_13b26
   - 🇭🇰香港_01d04
   - 🇭🇰香港_87296
@@ -55347,7 +56492,7 @@ proxy-groups:
   - 🇭🇰香港_99312
   - 🇺🇸美国_5b274
   - 🇭🇰香港_cf46d
-  - 🇮🇩印度尼西亚_58ac6
+  - 🇲🇾马来西亚_58ac6
   - 🇭🇰香港_f7cae
   - 🇰🇷韩国_afbbd
   - 🇭🇰香港_9faf8
@@ -55365,7 +56510,7 @@ proxy-groups:
   - 🇨🇦加拿大_33a38
   - 🇩🇪德国_c74f7
   - 🇺🇸美国_ac439
-  - 🇮🇩印度尼西亚_5ef36
+  - 🇲🇾马来西亚_5ef36
   - 🇩🇪德国_c4c70
   - 🇺🇸美国_6ba5c
   - 🇭🇰香港_521da
@@ -57575,7 +58720,7 @@ proxy-groups:
   - 🇯🇵日本_d1ac5
   - 🇯🇵日本_9a894
   - 🇺🇸美国_598f9
-  - 🇭🇰香港_4bc87
+  - 🇺🇸美国_4bc87
   - 🇨🇳中国_de1c1
   - 🇨🇳中国_cc6ce
   - 🇨🇳中国_2dc17
@@ -58250,7 +59395,7 @@ proxy-groups:
   - 🇯🇵日本_dd295
   - 🇯🇵日本_e2b12
   - 🇺🇸美国_e2ded
-  - 🇭🇰香港_312bb
+  - 🇺🇸美国_312bb
   - 🇨🇳中国_7b404
   - 🇨🇳中国_6d965
   - 🇨🇳中国_c81fb
@@ -58461,6 +59606,101 @@ proxy-groups:
   - 🇭🇰香港_ad298
   - 🇸🇨塞舌尔_f7db9
   - 🏳️未知_b1506
-  - 🏳️未知_7f07b
+  - 🏳️未知_35dd1
+  - 🇨🇳中国_e83de
+  - 🇭🇰香港_8c4d7
+  - 🇺🇸美国_d8258
+  - 🇺🇸美国_95fcd
+  - 🇰🇷韩国_3d028
+  - 🇰🇷韩国_56fda
+  - 🇰🇷韩国_cef5a
+  - 🇺🇸美国_cbc3b
+  - 🇺🇸美国_85e70
+  - 🇰🇷韩国_b9565
+  - 🇰🇷韩国_80f90
+  - 🇰🇷韩国_eb871
+  - 🇺🇸美国_bdc0c
+  - 🇺🇸美国_06376
+  - 🇰🇷韩国_f7320
+  - 🇰🇷韩国_5ef5e
+  - 🇰🇷韩国_55201
+  - 🇺🇸美国_8fc5f
+  - 🇺🇸美国_44792
+  - 🇰🇷韩国_3436c
+  - 🇰🇷韩国_683ba
+  - 🇰🇷韩国_5da5c
+  - 🇺🇸美国_0f09e
+  - 🇺🇸美国_ed364
+  - 🏳️未知_2589a
+  - 🇬🇧英国_a5b4c
+  - 🇺🇸美国_22f91
+  - 🇺🇸美国_9d0e1
+  - 🇭🇰香港_c40af
+  - 🇸🇨塞舌尔_587f9
+  - 🏳️未知_b3cdb
+  - 🏳️未知_5a521
+  - 🇰🇷韩国_28d66
+  - 🇸🇬新加坡_ac9d1
+  - 🇨🇳中国_49c72
+  - 🇭🇰香港_f4e5b
+  - 🇺🇸美国_6da60
+  - 🇺🇸美国_4ae8f
+  - 🇰🇷韩国_0d67c
+  - 🇰🇷韩国_b229b
+  - 🇰🇷韩国_34ce5
+  - 🇺🇸美国_80a4e
+  - 🇺🇸美国_759ee
+  - 🇰🇷韩国_029a3
+  - 🇰🇷韩国_6a5ac
+  - 🇰🇷韩国_9644d
+  - 🇺🇸美国_a6e95
+  - 🇺🇸美国_0d7f3
+  - 🇰🇷韩国_f07a3
+  - 🇰🇷韩国_07c26
+  - 🇰🇷韩国_7a065
+  - 🇺🇸美国_81b67
+  - 🇺🇸美国_182ad
+  - 🇰🇷韩国_5ced5
+  - 🇰🇷韩国_afde8
+  - 🇰🇷韩国_4a9d7
+  - 🇺🇸美国_67cca
+  - 🇺🇸美国_8544f
+  - 🏳️未知_38d03
+  - 🇬🇧英国_d4db3
+  - 🇺🇸美国_dae72
+  - 🇺🇸美国_5115d
+  - 🇭🇰香港_d9ed5
+  - 🇸🇨塞舌尔_5b86f
+  - 🏳️未知_c22ad
+  - 🏳️未知_69a82
+  - 🇰🇷韩国_5fbda
+  - 🇸🇬新加坡_ec33c
+  - 🇭🇰香港_1249c
+  - 🏳️未知_7a870
+  - 🇭🇰香港_de893
+  - 🇯🇵日本_5b60f
+  - 🇺🇸美国_c1d67
+  - 🇯🇵日本_6d106
+  - 🇺🇸美国_4143f
+  - 🇸🇬新加坡_85ee1
+  - 🇺🇸美国_d2ecb
+  - 🇲🇾马来西亚_eb7d3
+  - 🇭🇰香港_06d6e
+  - 🇭🇰香港_8d0cb
+  - 🇺🇸美国_16931
+  - 🇺🇸美国_8b0fb
+  - 🇰🇷韩国_c6d0f
+  - 🇰🇷韩国_69a88
+  - 🇰🇷韩国_8969d
+  - 🇺🇸美国_00e95
+  - 🇺🇸美国_c583e
+  - 🏳️未知_5e4ca
+  - 🇬🇧英国_e9f33
+  - 🇺🇸美国_99eeb
+  - 🇺🇸美国_da928
+  - 🇭🇰香港_1a4ac
+  - 🇸🇨塞舌尔_11a27
+  - 🏳️未知_18f7a
+  - 🏳️未知_28c77
 rules:
 - MATCH,🚀 节点选择
